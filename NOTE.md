@@ -1,1 +1,6 @@
-
+[Game Boy CSS](http://codepen.io/AntonEssenetial/pen/trlfu)
+[Nintendo DS CSS](http://codepen.io/AntonEssenetial/pen/LtBaK)
+[Game Boy Boot-up](http://youtu.be/fZy08NsG2FM)
+[Game Boy Color Boot-up](http://youtu.be/4piNHARQKFQ)
+[Game Boy Advance Boot-up](http://youtu.be/6_ZD3FxMcvQ)
+[Game Boy Advance SP Boot-up](http://youtu.be/gjx7BxIbLlE)
